@@ -1,0 +1,1 @@
+# mfs-shopify-theme
